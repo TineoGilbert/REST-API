@@ -1,4 +1,4 @@
 # CRUD REST-API :snake:
-- Basic REST API using the web framework FastAPI
+- CRUD REST API using the web framework FastAPI
 
-![](REST_API/restapi.png)
+![](FASTAPI_CRUD/crudapi.png)
