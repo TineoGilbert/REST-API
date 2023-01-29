@@ -1,0 +1,3 @@
+activate conda: conda activate (name of the project)
+
+desativate: conda deactivate
